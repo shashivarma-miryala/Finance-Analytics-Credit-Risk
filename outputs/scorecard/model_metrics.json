@@ -1,0 +1,24 @@
+{
+  "rows": 9578,
+  "bad_rate": 0.1601,
+  "variables_used": [
+    "fico",
+    "inq.last.6mths",
+    "purpose",
+    "revol.util",
+    "installment"
+  ],
+  "excluded_for_leakage": [
+    "int.rate",
+    "credit.policy"
+  ],
+  "auc_train": 0.6777,
+  "auc_test": 0.6355,
+  "gini_test": 0.271,
+  "ks_test": 0.1946,
+  "score_scaling": {
+    "base_score": 600,
+    "base_odds_good_to_bad": 20,
+    "pdo": 40
+  }
+}

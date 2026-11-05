@@ -1,0 +1,6 @@
+risk_band,loans,bad,bad_rate,score_range
+A (Very Low Risk),1928,116,0.0602,>= 563
+B (Low Risk),1852,219,0.1183,540 - 563
+C (Medium Risk),1994,307,0.154,523 - 540
+D (High Risk),1892,331,0.1749,502 - 523
+E (Very High Risk),1912,560,0.2929,< 502

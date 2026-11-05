@@ -1,0 +1,12 @@
+variable,IV,decision
+fico,0.171666527929564,keep
+inq.last.6mths,0.16716176832651827,keep
+purpose,0.08801951781157635,keep
+revol.util,0.06725563768657493,keep
+installment,0.02317663789431312,keep
+revol.bal,0.01959831222768756,drop
+dti,0.011707153780406564,drop
+log.annual.inc,0.011616457175465285,drop
+days.with.cr.line,0.004235786113922111,drop
+delinq.2yrs,0.0,drop
+pub.rec,0.0,drop

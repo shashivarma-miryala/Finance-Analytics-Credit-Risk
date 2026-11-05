@@ -1,0 +1,12 @@
+account_code,account_name,category
+4000,Interest Income,Revenue
+4100,Fee Income,Revenue
+5000,Interest Expense,Cost of Funds
+5100,Provision for Loan Losses,Credit Cost
+6000,Salaries & Benefits,Operating Expense
+6100,Marketing,Operating Expense
+6200,Technology,Operating Expense
+6300,Rent & Facilities,Operating Expense
+6400,Professional Fees,Operating Expense
+6500,Other Operating Expenses,Operating Expense
+7000,Income Tax,Tax

@@ -1,0 +1,217 @@
+month,bs_code,bs_name,section,balance
+2024-01,1000,Cash,Assets,14001812.7
+2024-01,1100,Gross Loans Receivable,Assets,202838103.03
+2024-01,1150,Allowance for Loan Losses,Assets,-5991875.27
+2024-01,1200,Other Assets,Assets,6000000.0
+2024-01,2000,Borrowings,Liabilities,158213720.36
+2024-01,2100,Accrued Liabilities,Liabilities,1133014.61
+2024-01,2200,Taxes Payable,Liabilities,125326.37
+2024-01,3000,Share Capital,Equity,45000000.0
+2024-01,3100,Retained Earnings,Equity,12375979.12
+2024-02,1000,Cash,Assets,14291592.82
+2024-02,1100,Gross Loans Receivable,Assets,203019824.03
+2024-02,1150,Allowance for Loan Losses,Assets,-5991945.11
+2024-02,1200,Other Assets,Assets,6000000.0
+2024-02,2000,Borrowings,Liabilities,158355462.74
+2024-02,2100,Accrued Liabilities,Liabilities,1138741.1
+2024-02,2200,Taxes Payable,Liabilities,112322.19
+2024-02,3000,Share Capital,Equity,45000000.0
+2024-02,3100,Retained Earnings,Equity,12712945.7
+2024-03,1000,Cash,Assets,13734959.37
+2024-03,1100,Gross Loans Receivable,Assets,207195765.25
+2024-03,1150,Allowance for Loan Losses,Assets,-6027833.18
+2024-03,1200,Other Assets,Assets,6000000.0
+2024-03,2000,Borrowings,Liabilities,161612696.9
+2024-03,2100,Accrued Liabilities,Liabilities,1131759.28
+2024-03,2200,Taxes Payable,Liabilities,111372.39
+2024-03,3000,Share Capital,Equity,45000000.0
+2024-03,3100,Retained Earnings,Equity,13047062.88
+2024-04,1000,Cash,Assets,13125476.09
+2024-04,1100,Gross Loans Receivable,Assets,211782361.62
+2024-04,1150,Allowance for Loan Losses,Assets,-6030308.32
+2024-04,1200,Other Assets,Assets,6000000.0
+2024-04,2000,Borrowings,Liabilities,165190242.06
+2024-04,2100,Accrued Liabilities,Liabilities,1125038.66
+2024-04,2200,Taxes Payable,Liabilities,128796.45
+2024-04,3000,Share Capital,Equity,45000000.0
+2024-04,3100,Retained Earnings,Equity,13433452.22
+2024-05,1000,Cash,Assets,13772148.12
+2024-05,1100,Gross Loans Receivable,Assets,210366620.54
+2024-05,1150,Allowance for Loan Losses,Assets,-6046715.07
+2024-05,1200,Other Assets,Assets,6000000.0
+2024-05,2000,Borrowings,Liabilities,164085964.02
+2024-05,2100,Accrued Liabilities,Liabilities,1150415.02
+2024-05,2200,Taxes Payable,Liabilities,105555.58
+2024-05,3000,Share Capital,Equity,45000000.0
+2024-05,3100,Retained Earnings,Equity,13750118.96
+2024-06,1000,Cash,Assets,14145699.22
+2024-06,1100,Gross Loans Receivable,Assets,210332929.68
+2024-06,1150,Allowance for Loan Losses,Assets,-6107170.34
+2024-06,1200,Other Assets,Assets,6000000.0
+2024-06,2000,Borrowings,Liabilities,164059685.15
+2024-06,2100,Accrued Liabilities,Liabilities,1145257.0
+2024-06,2200,Taxes Payable,Liabilities,104099.36
+2024-06,3000,Share Capital,Equity,45000000.0
+2024-06,3100,Retained Earnings,Equity,14062417.05
+2024-07,1000,Cash,Assets,14854393.78
+2024-07,1100,Gross Loans Receivable,Assets,208768410.09
+2024-07,1150,Allowance for Loan Losses,Assets,-6124032.26
+2024-07,1200,Other Assets,Assets,6000000.0
+2024-07,2000,Borrowings,Liabilities,162839359.87
+2024-07,2100,Accrued Liabilities,Liabilities,1163747.99
+2024-07,2200,Taxes Payable,Liabilities,108311.67
+2024-07,3000,Share Capital,Equity,45000000.0
+2024-07,3100,Retained Earnings,Equity,14387352.07
+2024-08,1000,Cash,Assets,15955198.33
+2024-08,1100,Gross Loans Receivable,Assets,205224512.89
+2024-08,1150,Allowance for Loan Losses,Assets,-6168989.7
+2024-08,1200,Other Assets,Assets,6000000.0
+2024-08,2000,Borrowings,Liabilities,160075120.05
+2024-08,2100,Accrued Liabilities,Liabilities,1124889.08
+2024-08,2200,Taxes Payable,Liabilities,105840.08
+2024-08,3000,Share Capital,Equity,45000000.0
+2024-08,3100,Retained Earnings,Equity,14704872.31
+2024-09,1000,Cash,Assets,16937141.27
+2024-09,1100,Gross Loans Receivable,Assets,202311864.6
+2024-09,1150,Allowance for Loan Losses,Assets,-6170680.53
+2024-09,1200,Other Assets,Assets,6000000.0
+2024-09,2000,Borrowings,Liabilities,157803254.39
+2024-09,2100,Accrued Liabilities,Liabilities,1141261.56
+2024-09,2200,Taxes Payable,Liabilities,107234.27
+2024-09,3000,Share Capital,Equity,45000000.0
+2024-09,3100,Retained Earnings,Equity,15026575.12
+2024-10,1000,Cash,Assets,17274331.74
+2024-10,1100,Gross Loans Receivable,Assets,202684526.14
+2024-10,1150,Allowance for Loan Losses,Assets,-6190792.71
+2024-10,1200,Other Assets,Assets,6000000.0
+2024-10,2000,Borrowings,Liabilities,158093930.39
+2024-10,2100,Accrued Liabilities,Liabilities,1263948.96
+2024-10,2200,Taxes Payable,Liabilities,95902.67
+2024-10,3000,Share Capital,Equity,45000000.0
+2024-10,3100,Retained Earnings,Equity,15314283.14
+2024-11,1000,Cash,Assets,16571392.65
+2024-11,1100,Gross Loans Receivable,Assets,207148843.07
+2024-11,1150,Allowance for Loan Losses,Assets,-6192072.88
+2024-11,1200,Other Assets,Assets,6000000.0
+2024-11,2000,Borrowings,Liabilities,161576097.59
+2024-11,2100,Accrued Liabilities,Liabilities,1300727.5
+2024-11,2200,Taxes Payable,Liabilities,84263.65
+2024-11,3000,Share Capital,Equity,45000000.0
+2024-11,3100,Retained Earnings,Equity,15567074.1
+2024-12,1000,Cash,Assets,15905306.09
+2024-12,1100,Gross Loans Receivable,Assets,211713546.79
+2024-12,1150,Allowance for Loan Losses,Assets,-6209376.26
+2024-12,1200,Other Assets,Assets,6000000.0
+2024-12,2000,Borrowings,Liabilities,165136566.5
+2024-12,2100,Accrued Liabilities,Liabilities,1280812.45
+2024-12,2200,Taxes Payable,Liabilities,106255.89
+2024-12,3000,Share Capital,Equity,45000000.0
+2024-12,3100,Retained Earnings,Equity,15885841.78
+2025-01,1000,Cash,Assets,15533075.08
+2025-01,1100,Gross Loans Receivable,Assets,214345656.84
+2025-01,1150,Allowance for Loan Losses,Assets,-6258381.28
+2025-01,1200,Other Assets,Assets,6000000.0
+2025-01,2000,Borrowings,Liabilities,167189612.34
+2025-01,2100,Accrued Liabilities,Liabilities,1175919.67
+2025-01,2200,Taxes Payable,Liabilities,92244.22
+2025-01,3000,Share Capital,Equity,45000000.0
+2025-01,3100,Retained Earnings,Equity,16162574.43
+2025-02,1000,Cash,Assets,14905193.45
+2025-02,1100,Gross Loans Receivable,Assets,218973829.51
+2025-02,1150,Allowance for Loan Losses,Assets,-6238683.64
+2025-02,1200,Other Assets,Assets,6000000.0
+2025-02,2000,Borrowings,Liabilities,170799587.02
+2025-02,2100,Accrued Liabilities,Liabilities,1196730.91
+2025-02,2200,Taxes Payable,Liabilities,120361.74
+2025-02,3000,Share Capital,Equity,45000000.0
+2025-02,3100,Retained Earnings,Equity,16523659.65
+2025-03,1000,Cash,Assets,14536991.3
+2025-03,1100,Gross Loans Receivable,Assets,222264158.96
+2025-03,1150,Allowance for Loan Losses,Assets,-6425320.61
+2025-03,1200,Other Assets,Assets,6000000.0
+2025-03,2000,Borrowings,Liabilities,173366043.99
+2025-03,2100,Accrued Liabilities,Liabilities,1157728.94
+2025-03,2200,Taxes Payable,Liabilities,82099.27
+2025-03,3000,Share Capital,Equity,45000000.0
+2025-03,3100,Retained Earnings,Equity,16769957.45
+2025-04,1000,Cash,Assets,14751926.46
+2025-04,1100,Gross Loans Receivable,Assets,223310636.62
+2025-04,1150,Allowance for Loan Losses,Assets,-6608314.53
+2025-04,1200,Other Assets,Assets,6000000.0
+2025-04,2000,Borrowings,Liabilities,174182296.56
+2025-04,2100,Accrued Liabilities,Liabilities,1178875.91
+2025-04,2200,Taxes Payable,Liabilities,80779.66
+2025-04,3000,Share Capital,Equity,45000000.0
+2025-04,3100,Retained Earnings,Equity,17012296.42
+2025-05,1000,Cash,Assets,14387492.18
+2025-05,1100,Gross Loans Receivable,Assets,227145777.1
+2025-05,1150,Allowance for Loan Losses,Assets,-6769892.78
+2025-05,1200,Other Assets,Assets,6000000.0
+2025-05,2000,Borrowings,Liabilities,177173706.14
+2025-05,2100,Accrued Liabilities,Liabilities,1220920.86
+2025-05,2200,Taxes Payable,Liabilities,89113.27
+2025-05,3000,Share Capital,Equity,45000000.0
+2025-05,3100,Retained Earnings,Equity,17279636.23
+2025-06,1000,Cash,Assets,14632163.14
+2025-06,1100,Gross Loans Receivable,Assets,227940215.49
+2025-06,1150,Allowance for Loan Losses,Assets,-6908900.94
+2025-06,1200,Other Assets,Assets,6000000.0
+2025-06,2000,Borrowings,Liabilities,177793368.08
+2025-06,2100,Accrued Liabilities,Liabilities,1236295.66
+2025-06,2200,Taxes Payable,Liabilities,88544.43
+2025-06,3000,Share Capital,Equity,45000000.0
+2025-06,3100,Retained Earnings,Equity,17545269.52
+2025-07,1000,Cash,Assets,13315654.25
+2025-07,1100,Gross Loans Receivable,Assets,235793549.97
+2025-07,1150,Allowance for Loan Losses,Assets,-7094552.78
+2025-07,1200,Other Assets,Assets,6000000.0
+2025-07,2000,Borrowings,Liabilities,183918968.97
+2025-07,2100,Accrued Liabilities,Liabilities,1174612.26
+2025-07,2200,Taxes Payable,Liabilities,93950.17
+2025-07,3000,Share Capital,Equity,45000000.0
+2025-07,3100,Retained Earnings,Equity,17827120.04
+2025-08,1000,Cash,Assets,12408020.12
+2025-08,1100,Gross Loans Receivable,Assets,242151738.02
+2025-08,1150,Allowance for Loan Losses,Assets,-7267922.67
+2025-08,1200,Other Assets,Assets,6000000.0
+2025-08,2000,Borrowings,Liabilities,188878355.66
+2025-08,2100,Accrued Liabilities,Liabilities,1215461.61
+2025-08,2200,Taxes Payable,Liabilities,92724.54
+2025-08,3000,Share Capital,Equity,45000000.0
+2025-08,3100,Retained Earnings,Equity,18105293.66
+2025-09,1000,Cash,Assets,11580768.7
+2025-09,1100,Gross Loans Receivable,Assets,248298698.86
+2025-09,1150,Allowance for Loan Losses,Assets,-7305708.08
+2025-09,1200,Other Assets,Assets,6000000.0
+2025-09,2000,Borrowings,Liabilities,193672985.11
+2025-09,2100,Accrued Liabilities,Liabilities,1254912.27
+2025-09,2200,Taxes Payable,Liabilities,135142.11
+2025-09,3000,Share Capital,Equity,45000000.0
+2025-09,3100,Retained Earnings,Equity,18510719.99
+2025-10,1000,Cash,Assets,11690663.46
+2025-10,1100,Gross Loans Receivable,Assets,249696144.24
+2025-10,1150,Allowance for Loan Losses,Assets,-7337512.9
+2025-10,1200,Other Assets,Assets,6000000.0
+2025-10,2000,Borrowings,Liabilities,194762992.51
+2025-10,2100,Accrued Liabilities,Liabilities,1278446.19
+2025-10,2200,Taxes Payable,Liabilities,124284.03
+2025-10,3000,Share Capital,Equity,45000000.0
+2025-10,3100,Retained Earnings,Equity,18883572.08
+2025-11,1000,Cash,Assets,10697990.53
+2025-11,1100,Gross Loans Receivable,Assets,256180321.37
+2025-11,1150,Allowance for Loan Losses,Assets,-7419774.07
+2025-11,1200,Other Assets,Assets,6000000.0
+2025-11,2000,Borrowings,Liabilities,199820650.67
+2025-11,2100,Accrued Liabilities,Liabilities,1283131.48
+2025-11,2200,Taxes Payable,Liabilities,117795.9
+2025-11,3000,Share Capital,Equity,45000000.0
+2025-11,3100,Retained Earnings,Equity,19236959.78
+2025-12,1000,Cash,Assets,10543536.78
+2025-12,1100,Gross Loans Receivable,Assets,258973172.66
+2025-12,1150,Allowance for Loan Losses,Assets,-7444264.61
+2025-12,1200,Other Assets,Assets,6000000.0
+2025-12,2000,Borrowings,Liabilities,201999074.67
+2025-12,2100,Accrued Liabilities,Liabilities,1291431.98
+2025-12,2200,Taxes Payable,Liabilities,136244.6
+2025-12,3000,Share Capital,Equity,45000000.0
+2025-12,3100,Retained Earnings,Equity,19645693.58
